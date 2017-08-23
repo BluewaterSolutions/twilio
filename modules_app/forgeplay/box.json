@@ -1,0 +1,8 @@
+{
+    "dependencies":{
+        "qb":"^4.0.0"
+    },
+    "installPaths":{
+        "qb":"modules/qb"
+    }
+}
